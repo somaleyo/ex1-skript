@@ -1,0 +1,4 @@
+echo "qui est tu"
+
+read moi
+echo "je suis $moi
